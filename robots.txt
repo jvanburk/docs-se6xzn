@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-u2ixff.karta-hrvatske.com.hr/sitemap.xml
